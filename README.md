@@ -5,3 +5,18 @@ IPR Info is a fun and interactive mobile application designed to teach school st
 Many students in India are unaware of the importance of protecting creative work and the process involved in Intellectual Property registration. This application bridges that gap by providing educational content, quizzes, and interactive games arranged in different levels such as Basic, Intermediate, and Advanced.
 
 The app includes features like scoreboards, progress tracking, knowledge snippets, and quick recaps to enhance learning. The primary goal is to spread IP awareness, encourage responsible use of creative works, and foster innovation among students.
+
+## 📸 App Screenshots
+
+![Screenshot](project/project/img/Screenshot%202026-03-03%20181301.png)
+
+![Screenshot](project/project/img/Screenshot%202026-03-03%20181308.png)
+
+![Screenshot](project/project/img/Screenshot%202026-03-03%20181316.png)
+
+![Screenshot](project/project/img/Screenshot%202026-03-03%20181325.png)
+
+![Screenshot](project/project/img/Screenshot%202026-03-03%20181335.png)
+
+![Screenshot](project/project/img/Screenshot%202026-03-03%20181344.png)
+
